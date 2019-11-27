@@ -1,0 +1,7 @@
+future
+tensorflow
+tensorflow_datasets
+numpy
+matplotlib
+matplotlib.pyplot
+pathlib
