@@ -1,0 +1,3 @@
+Yeah, this lesson didn't really happen because the RasPi wasn't importing correctly, soooooo.....
+
+off to tflite-personal haha
